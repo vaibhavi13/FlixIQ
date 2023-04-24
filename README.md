@@ -1,2 +1,5 @@
-# adt_flix_iq
-ADT Project : FLIX IQ
+# ADT Project : FLIX IQ
+
+pip install -U Flask Authlib requests
+
+pip install Flask Flask-WTF
